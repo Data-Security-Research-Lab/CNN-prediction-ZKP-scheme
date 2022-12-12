@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -Wextra -Wfatal-errors -pthread -fopenmp -ggdb3 -O2 -march=native -mtune=native -O2 -g -DNDEBUG  -rdynamic CMakeFiles/conv_bp.dir/conv_bp.cpp.o  -o conv_bp  ../depends/libsnark/libsnark/libsnark.a ../depends/libsnark/depends/libff/libff/libff.a /usr/lib/x86_64-linux-gnu/libgmp.so -lgmp -lgmpxx -lcrypto -lprocps 

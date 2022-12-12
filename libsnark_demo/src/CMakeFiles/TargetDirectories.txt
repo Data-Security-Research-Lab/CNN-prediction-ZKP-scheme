@@ -1,0 +1,16 @@
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/rebuild_cache.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/edit_cache.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/test.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/fc.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/range.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/fc_bp.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/conv.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/maxpool.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/main.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/fc_bp_bias.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/softmax.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/fc_bp_weight.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/conv_bp_weight.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/relu.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/conv_bp_bias.dir
+/home/libsnarkdemo/libsnark_demo/src/CMakeFiles/conv_bp.dir

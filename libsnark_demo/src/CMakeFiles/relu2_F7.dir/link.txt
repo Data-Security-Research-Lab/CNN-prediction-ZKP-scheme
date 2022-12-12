@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -Wextra -Wfatal-errors -pthread -fopenmp -ggdb3 -O2 -march=native -mtune=native -O2 -g -DNDEBUG  -rdynamic CMakeFiles/relu2_F7.dir/LeNet5/circuit/relu2_F7.cpp.o  -o ../LeNet5/relu2_F7  ../depends/libsnark/libsnark/libsnark.a ../depends/libsnark/depends/libff/libff/libff.a /usr/lib/x86_64-linux-gnu/libgmp.so -lgmp -lgmpxx -lcrypto -lprocps 
